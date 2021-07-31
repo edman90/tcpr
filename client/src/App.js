@@ -17,30 +17,30 @@ function App() {
       </div>
       <Tabs>
         <div label="Basketball Power Rankings">
-          <b>Updated July 30th, 2021</b>
+          <b style={{fontSize:"50px"}}>Updated July 30th, 2021</b>
           <br></br>
           <br></br>
           <br></br>
-        <b>1. Kyle Brown (<b style={{color: 'green'}}>98</b> Overall)</b><br></br>
-        <b>2. Graem Stickann (<b style={{color: 'green'}}>96</b> Overall)</b><br></br>
-        <b>3. Sasa Zdrnja (<b style={{color: 'green'}}>96</b> Overall)</b><br></br>
-        <b>4. Nathan Tuskan (<b style={{color: 'green'}}>95</b> Overall)</b><br></br>
-        <b>5. Brian Burbridge (<b style={{color: 'green'}}>94</b> Overall)</b><br></br>
-        <b>6. Cristian Zendejas (<b style={{color: 'SpringGreen'}}>93</b> Overall)</b><br></br>
-        <b>7. Justin Davis (<b style={{color: 'SpringGreen'}}>91</b> Overall)</b><br></br>
-        <b>8. Conrad Alegre (<b style={{color: 'GreenYellow'}}>87</b> Overall)</b><br></br>
-        <b>9. Estevan Ramirez (<b style={{color: 'GreenYellow'}}>84</b> Overall)</b><br></br>
-        <b>10. Edward Pedroza (<b style={{color: 'GreenYellow'}}>82</b> Overall)</b><br></br>
-        <b>11. Tristan Celmer (<b style={{color: 'GreenYellow'}}>82</b> Overall)</b><br></br>
-        <b>12. Joseph Salazar (<b style={{color: 'GreenYellow'}}>80</b> Overall)</b><br></br>
-        <b>13. Angel Tirado (<b style={{color: 'Yellow'}}>78</b> Overall)</b><br></br>
-        <b>14. Joey Silva (<b style={{color: 'Yellow'}}>76</b> Overall)</b><br></br>
-        <b>15. Lucas Guerra (<b style={{color: 'Orange'}}>68</b> Overall)</b><br></br>
-        <b>16. Nolan (<b style={{color: 'Red'}}>25</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>1. Kyle Brown (<b style={{color: 'green'}}>98</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>2. Graem Stickann (<b style={{color: 'green'}}>96</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>3. Sasa Zdrnja (<b style={{color: 'green'}}>96</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>4. Nathan Tuskan (<b style={{color: 'green'}}>95</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>5. Brian Burbridge (<b style={{color: 'green'}}>94</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>6. Cristian Zendejas (<b style={{color: 'SpringGreen'}}>93</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>7. Justin Davis (<b style={{color: 'SpringGreen'}}>91</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>8. Conrad Alegre (<b style={{color: 'GreenYellow'}}>87</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}> 9. Estevan Ramirez (<b style={{color: 'GreenYellow'}}>84</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>10. Edward Pedroza (<b style={{color: 'GreenYellow'}}>82</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>11. Tristan Celmer (<b style={{color: 'GreenYellow'}}>82</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>12. Joseph Salazar (<b style={{color: 'GreenYellow'}}>80</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>13. Angel Tirado (<b style={{color: 'Yellow'}}>78</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>14. Joey Silva (<b style={{color: 'Yellow'}}>76</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>15. Lucas Guerra (<b style={{color: 'Orange'}}>68</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>16. Nolan (<b style={{color: 'Red'}}>25</b> Overall)</b><br></br>
         </div>
 
         <div label="Coach Stick's Expert Analysis">
-          <b> Updated July 30th, 2021</b>
+          <b style={{fontSize:"50px"}}> Updated July 30th, 2021</b>
           <br></br>
           <br></br>
           <br></br>
