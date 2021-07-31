@@ -8,6 +8,10 @@ function App() {
     <div className="App">
       <Tabs>
         <div label="Basketball Power Rankings">
+          <b>As of July 30th, 2021</b>
+          <br></br>
+          <br></br>
+          <br></br>
         <b>1. Kyle Brown (98 Overall)</b><br></br>
         <b>2. Graem Stickann (96 Overall)</b><br></br>
         <b>3. Sasa Zdrnja (96 Overall)</b><br></br>
@@ -25,12 +29,9 @@ function App() {
         <b>15. Lucas Guerra (68 Overall)</b><br></br>
         <b>16. Nolan (25 Overall)</b><br></br>
         </div>
-        <div label="COD Power Rankings">
-        <header>
-        <p>
-           Coming Soon
-        </p>
-        </header>
+
+        <div label="Coach Stick's Expert Analysis">
+          
         </div>
       
       </Tabs>
