@@ -4,7 +4,9 @@ import './App.css';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Dashboard from "./components/Dashboard/Dashboard";
 import Preferences from "./components/Preferences/Preferences";
-
+import edImage from './images/ed.jpg'
+import sasaImage from './images/sasa.jpg'
+import graemImage from './images/graem.jpg'
 function App() {
   return (
     
@@ -41,7 +43,12 @@ function App() {
           <br></br>
           <br></br>
           <br></br>
+          
+          <div>
           <b style={{fontSize:"50px"}}>Edward Pedroza</b><br></br>
+          <div>
+          <img src={edImage} alt="Edward Pedroza" width = "300px" ></img>
+          </div>
           <b>Outside Scoring: B-</b><br></br>
           <b>Inside Scoring: B</b><br></br>
           <b>Playmaking: C-</b><br></br>
@@ -50,10 +57,14 @@ function App() {
           <b>Ball Handle: C+</b><br></br>
           <b>Rebounding: A-</b><br></br>
           <b>Athleticism: B</b><br></br>
+          </div>
           <br></br>
           <br></br>
           <br></br>
           <b style={{fontSize:"50px"}}>Sasa Zdrnja</b><br></br>
+          <div>
+          <img src={sasaImage} alt="Sasa Zdrnja" width = "300px" ></img>
+          </div>
           <b>Outside Scoring: B+</b><br></br>
           <b>Inside Scoring: B</b><br></br>
           <b>Playmaking: C+</b><br></br>
@@ -66,6 +77,9 @@ function App() {
           <br></br>
           <br></br>
           <b style={{fontSize:"50px"}}>Graem Stickann</b><br></br>
+          <div>
+          <img src={graemImage} alt="Graem Stickann" width = "300px" ></img>
+          </div>
           <b>Outside Scoring: A+</b><br></br>
           <b>Inside Scoring: B+</b><br></br>
           <b>Playmaking: A-</b><br></br>
@@ -96,5 +110,7 @@ function App() {
     </div>
   );
 }
+
+
 
 export default App;
