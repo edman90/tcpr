@@ -20,22 +20,22 @@ function App() {
           <br></br>
           <br></br>
           <br></br>
-        <b>1. Kyle Brown (98 Overall)</b><br></br>
-        <b>2. Graem Stickann (96 Overall)</b><br></br>
-        <b>3. Sasa Zdrnja (96 Overall)</b><br></br>
-        <b>4. Nathan Tuskan (95 Overall)</b><br></br>
-        <b>5. Brian Burbridge (94 Overall)</b><br></br>
-        <b>6. Cristian Zendejas (93 Overall)</b><br></br>
-        <b>7. Justin Davis (91 Overall)</b><br></br>
-        <b>8. Conrad Alegre (87 Overall)</b><br></br>
-        <b>9. Estevan Ramirez (84 Overall)</b><br></br>
-        <b>10. Edward Pedroza (82 Overall)</b><br></br>
-        <b>11. Tristan Celmer (82 Overall)</b><br></br>
-        <b>12. Joseph Salazar (80 Overall)</b><br></br>
-        <b>13. Angel Tirado (78 Overall)</b><br></br>
-        <b>14. Joey Silva (76 Overall)</b><br></br>
-        <b>15. Lucas Guerra (68 Overall)</b><br></br>
-        <b>16. Nolan (25 Overall)</b><br></br>
+        <b>1. Kyle Brown (<b style={{color: 'green'}}>98</b> Overall)</b><br></br>
+        <b>2. Graem Stickann (<b style={{color: 'green'}}>96</b> Overall)</b><br></br>
+        <b>3. Sasa Zdrnja (<b style={{color: 'green'}}>96</b> Overall)</b><br></br>
+        <b>4. Nathan Tuskan (<b style={{color: 'green'}}>95</b> Overall)</b><br></br>
+        <b>5. Brian Burbridge (<b style={{color: 'green'}}>94</b> Overall)</b><br></br>
+        <b>6. Cristian Zendejas (<b style={{color: 'SpringGreen'}}>93</b> Overall)</b><br></br>
+        <b>7. Justin Davis (<b style={{color: 'SpringGreen'}}>91</b> Overall)</b><br></br>
+        <b>8. Conrad Alegre (<b style={{color: 'GreenYellow'}}>87</b> Overall)</b><br></br>
+        <b>9. Estevan Ramirez (<b style={{color: 'GreenYellow'}}>84</b> Overall)</b><br></br>
+        <b>10. Edward Pedroza (<b style={{color: 'GreenYellow'}}>82</b> Overall)</b><br></br>
+        <b>11. Tristan Celmer (<b style={{color: 'GreenYellow'}}>82</b> Overall)</b><br></br>
+        <b>12. Joseph Salazar (<b style={{color: 'GreenYellow'}}>80</b> Overall)</b><br></br>
+        <b>13. Angel Tirado (<b style={{color: 'Yellow'}}>78</b> Overall)</b><br></br>
+        <b>14. Joey Silva (<b style={{color: 'Yellow'}}>76</b> Overall)</b><br></br>
+        <b>15. Lucas Guerra (<b style={{color: 'Orange'}}>68</b> Overall)</b><br></br>
+        <b>16. Nolan (<b style={{color: 'Red'}}>25</b> Overall)</b><br></br>
         </div>
 
         <div label="Coach Stick's Expert Analysis">
