@@ -37,19 +37,24 @@
   }
 }
 
-.tab-list { border-bottom: 1px solid;
+.tab-list { border-bottom: 3px solid;
   padding-left: 0;
 }
 
 .tab-list-item {
   display: inline-block;
+  background-color: #0e9ec5;
+  border-style: inset;
+  border-color: black;
+  border-width: 1px 1px 0 1px;
   list-style: none;
-  margin-bottom: -1px;
   padding: 0.5rem 0.75rem;
 }
 
 .tab-list-active {
-  background-color: white;
-  border: solid;
+  display: inline-block;
+  background-color: rgb(29, 119, 236);
   border-width: 1px 1px 0 1px;
+  border-style: outset;
+  border-color: black;
 }
