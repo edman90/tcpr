@@ -9,6 +9,9 @@ function App() {
   return (
     
     <div className="App">
+      <div>
+        <b style={{fontSize:"70px"}}>Tuskerdoo Crew Power Rankings</b>
+      </div>
       <Tabs>
         <div label="Basketball Power Rankings">
           <b>Updated July 30th, 2021</b>
