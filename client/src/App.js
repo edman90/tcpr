@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Tabs>
         <div label="Basketball Power Rankings">
-          <b>As of July 30th, 2021</b>
+          <b>Updated July 30th, 2021</b>
           <br></br>
           <br></br>
           <br></br>
@@ -34,7 +34,18 @@ function App() {
         </div>
 
         <div label="Coach Stick's Expert Analysis">
-
+          <b> Updated July 30th, 2021</b>
+          <br></br>
+          <br></br>
+          <br></br>
+          <b style={{fontSize:"50px"}}>Edward Pedroza</b><br></br>
+          <b>Outside Scoring: B-</b><br></br>
+          <b>Inside Scoring: B</b><br></br>
+          <b>Playmaking: C-</b><br></br>
+          <b>Interior Defense: B</b><br></br>
+          <b>Perimeter Defense: B-</b><br></br>
+          <b>Ball Handle: C+</b><br></br>
+          <b>Rebounding: A-</b><br></br>
         </div>
 
         <div label="Admin Login">
