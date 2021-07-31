@@ -1,0 +1,24 @@
+{
+  "name": "tcpr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edman90/tcpr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edman90/tcpr/issues"
+  },
+  "homepage": "https://github.com/edman90/tcpr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "proxy":"http://localhost:3001"
+}
