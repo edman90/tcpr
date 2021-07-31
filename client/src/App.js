@@ -4,9 +4,10 @@ import './App.css';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Dashboard from "./components/Dashboard/Dashboard";
 import Preferences from "./components/Preferences/Preferences";
-import edImage from './images/ed.jpg'
-import sasaImage from './images/sasa.jpg'
-import graemImage from './images/graem.jpg'
+import edImage from './images/ed.jpg';
+import sasaImage from './images/sasa.jpg';
+import graemImage from './images/graem.jpg';
+import kyleImage from './images/kyle.jpg';
 function App() {
   return (
     
@@ -92,6 +93,9 @@ function App() {
           <br></br>
           <br></br>
           <b style={{fontSize:"50px"}}>Kyle Brown</b><br></br>
+          <div>
+          <img src={kyleImage} alt="Kyle Brown" width = "300px" ></img>
+          </div>
           <b>Outside Scoring: B+</b><br></br>
           <b>Inside Scoring: A</b><br></br>
           <b>Playmaking: B-</b><br></br>
@@ -102,8 +106,6 @@ function App() {
           <b>Athleticism: A+</b><br></br>
         </div>
 
-        <div label="Admin Login">
-        </div>
       
       </Tabs>
         
