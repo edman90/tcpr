@@ -1,6 +1,9 @@
 import React from "react";
 import Tabs from "./components/Tabs";
 import './App.css';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import Dashboard from "./components/Dashboard/Dashboard";
+import Preferences from "./components/Preferences/Preferences";
 
 function App() {
   return (
@@ -31,7 +34,10 @@ function App() {
         </div>
 
         <div label="Coach Stick's Expert Analysis">
-          
+
+        </div>
+
+        <div label="Admin Login">
         </div>
       
       </Tabs>
