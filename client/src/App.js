@@ -46,6 +46,43 @@ function App() {
           <b>Perimeter Defense: B-</b><br></br>
           <b>Ball Handle: C+</b><br></br>
           <b>Rebounding: A-</b><br></br>
+          <b>Athleticism: B</b><br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <b style={{fontSize:"50px"}}>Sasa Zdrnja</b><br></br>
+          <b>Outside Scoring: B+</b><br></br>
+          <b>Inside Scoring: B</b><br></br>
+          <b>Playmaking: C+</b><br></br>
+          <b>Interior Defense: B</b><br></br>
+          <b>Perimeter Defense: B+</b><br></br>
+          <b>Ball Handle: C+</b><br></br>
+          <b>Rebounding: A-</b><br></br>
+          <b>Athleticism: B+</b><br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <b style={{fontSize:"50px"}}>Graem Stickann</b><br></br>
+          <b>Outside Scoring: A+</b><br></br>
+          <b>Inside Scoring: B+</b><br></br>
+          <b>Playmaking: A-</b><br></br>
+          <b>Interior Defense: D+</b><br></br>
+          <b>Perimeter Defense: C+</b><br></br>
+          <b>Ball Handle: A</b><br></br>
+          <b>Rebounding: C-</b><br></br>
+          <b>Athleticism: A</b><br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <b style={{fontSize:"50px"}}>Kyle Brown</b><br></br>
+          <b>Outside Scoring: B+</b><br></br>
+          <b>Inside Scoring: A</b><br></br>
+          <b>Playmaking: B-</b><br></br>
+          <b>Interior Defense: A</b><br></br>
+          <b>Perimeter Defense: B</b><br></br>
+          <b>Ball Handle: B+</b><br></br>
+          <b>Rebounding: A+</b><br></br>
+          <b>Athleticism: A+</b><br></br>
         </div>
 
         <div label="Admin Login">
