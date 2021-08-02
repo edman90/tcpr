@@ -22,20 +22,20 @@ function App() {
           <br></br>
           <br></br>
         <b style={{fontSize:"50px"}}>1. Kyle Brown (<b style={{color: 'green'}}>98</b> Overall)</b><br></br>
-        <b style={{fontSize:"50px"}}>2. Graem Stickann (<b style={{color: 'green'}}>96</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>2. Graem Stickann (<b style={{color: 'green'}}>97</b> Overall)</b><br></br>
         <b style={{fontSize:"50px"}}>3. Sasa Zdrnja (<b style={{color: 'green'}}>96</b> Overall)</b><br></br>
         <b style={{fontSize:"50px"}}>4. Nathan Tuskan (<b style={{color: 'green'}}>95</b> Overall)</b><br></br>
         <b style={{fontSize:"50px"}}>5. Brian Burbridge (<b style={{color: 'green'}}>94</b> Overall)</b><br></br>
-        <b style={{fontSize:"50px"}}>6. Cristian Zendejas (<b style={{color: 'SpringGreen'}}>93</b> Overall)</b><br></br>
-        <b style={{fontSize:"50px"}}>7. Justin Davis (<b style={{color: 'SpringGreen'}}>91</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>6. Justin Davis (<b style={{color: 'SpringGreen'}}>91</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>7. Cristian Zendejas (<b style={{color: 'SpringGreen'}}>90</b> Overall)</b><br></br>
         <b style={{fontSize:"50px"}}>8. Conrad Alegre (<b style={{color: 'GreenYellow'}}>87</b> Overall)</b><br></br>
-        <b style={{fontSize:"50px"}}> 9. Estevan Ramirez (<b style={{color: 'GreenYellow'}}>84</b> Overall)</b><br></br>
-        <b style={{fontSize:"50px"}}>10. Edward Pedroza (<b style={{color: 'GreenYellow'}}>82</b> Overall)</b><br></br>
-        <b style={{fontSize:"50px"}}>11. Tristan Celmer (<b style={{color: 'GreenYellow'}}>82</b> Overall)</b><br></br>
-        <b style={{fontSize:"50px"}}>12. Joseph Salazar (<b style={{color: 'GreenYellow'}}>80</b> Overall)</b><br></br>
-        <b style={{fontSize:"50px"}}>13. Angel Tirado (<b style={{color: 'Yellow'}}>78</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>9. Joseph Salazar (<b style={{color: 'GreenYellow'}}>86</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>10. Estevan Ramirez (<b style={{color: 'GreenYellow'}}>84</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>11. Tristan Celmer (<b style={{color: 'GreenYellow'}}>81</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>12. Edward Pedroza (<b style={{color: 'GreenYellow'}}>80</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>13. Angel Tirado (<b style={{color: 'Yellow'}}>77</b> Overall)</b><br></br>
         <b style={{fontSize:"50px"}}>14. Joey Silva (<b style={{color: 'Yellow'}}>76</b> Overall)</b><br></br>
-        <b style={{fontSize:"50px"}}>15. Lucas Guerra (<b style={{color: 'Orange'}}>68</b> Overall)</b><br></br>
+        <b style={{fontSize:"50px"}}>15. Lucas Guerra (<b style={{color: 'Orange'}}>72</b> Overall)</b><br></br>
         <b style={{fontSize:"50px"}}>16. Nolan (<b style={{color: 'Red'}}>25</b> Overall)</b><br></br>
         </div>
 
