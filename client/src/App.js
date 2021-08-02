@@ -17,7 +17,7 @@ function App() {
       </div>
       <Tabs>
         <div label="Basketball Power Rankings">
-          <b style={{fontSize:"50px"}}>Updated July 30th, 2021</b>
+          <b style={{fontSize:"50px"}}>Updated August 1st, 2021</b>
           <br></br>
           <br></br>
           <br></br>
